@@ -13,7 +13,7 @@ require (
 	github.com/jpillora/backoff v1.0.0
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/metal3-io/baremetal-operator v0.0.0-20200828204955-fc35b7691a8e
-	github.com/onsi/ginkgo v1.14.0
+	github.com/onsi/ginkgo v1.15.1
 	github.com/onsi/gomega v1.10.1
 	github.com/openshift/api v0.0.0-20200326152221-912866ddb162
 	github.com/openshift/assisted-installer-agent v0.0.0-20200811180147-bc9c7b899b8a
@@ -23,8 +23,8 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/thoas/go-funk v0.6.0
 	github.com/vincent-petithory/dataurl v0.0.0-20191104211930-d1553a71de50
-	golang.org/x/net v0.0.0-20200822124328-c89045814202
-	golang.org/x/sync v0.0.0-20201008141435-b3e1573b7520
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	k8s.io/api v0.18.6
 	k8s.io/apimachinery v0.18.6
 	k8s.io/client-go v12.0.0+incompatible
